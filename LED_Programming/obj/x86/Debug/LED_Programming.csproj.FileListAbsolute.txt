@@ -1,0 +1,15 @@
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\bin\Debug\LED_Programming.exe.config
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\bin\Debug\LED_Programming.exe
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\bin\Debug\LED_Programming.pdb
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.Form1.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.ProgressBar.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.Success.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.Fail.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.Properties.Resources.resources
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.csproj.GenerateResource.Cache
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.exe.licenses
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.exe
+C:\Users\vaka\Documents\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.pdb
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\LED_Programming\LED_Programming\bin\Debug\LED_Programming.exe.config
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.exe
+C:\Users\vatss\Documents\Projects\Visual Studio 2010\Projects\LED_Programming\LED_Programming\obj\x86\Debug\LED_Programming.pdb
